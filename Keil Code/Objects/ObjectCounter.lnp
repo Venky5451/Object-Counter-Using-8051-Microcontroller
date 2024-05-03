@@ -1,0 +1,3 @@
+".\Objects\LCD_PBL.obj" 
+TO ".\Objects\ObjectCounter" 
+PRINT(".\Listings\ObjectCounter.m51") RAMSIZE(256) 
